@@ -1,0 +1,19 @@
+body{
+    background-color: blue;
+    color:white;
+    font-size: 25px;
+}
+header{
+    min-height:100vh;
+    background: linear-gradient(rgba(146, 143, 143, 0.692),rgba(158, 152, 152, 0.384)),url(https://th.bing.com/th/id/OIP.wrVnhFdc5dS9QDvzyDFTYQHaHa?w=193&h=193&c=7&r=0&o=5&pid=1.7);
+    background-size: cover;
+    background-position:center;
+}
+img{
+    display:flex;
+    justify-content: center;
+}
+.header-content{
+    width: 95%;
+    margin:auto;
+}
